@@ -1,5 +1,5 @@
 #  Nikita Rane Resume
-Name: Nikita Rane  <br> 
+# Name: Nikita Rane  <br> 
 Role: Agile Scrum master/Agile project manager/Agile Coach <br> 
 Address: Thane West <br> 
 Email ID: nikitarane1990@gmail.com <br> 
